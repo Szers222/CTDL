@@ -1,0 +1,28 @@
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.csproj.AssemblyReference.cache
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.AssemblyInfoInputs.cache
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.AssemblyInfo.cs
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.csproj.CoreCompileInputs.cache
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.exe
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.deps.json
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.runtimeconfig.json
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.runtimeconfig.dev.json
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.dll
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.pdb
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.dll
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.pdb
+C:\Users\szers\source\repos\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.genruntimeconfig.cache
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.exe
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.deps.json
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.runtimeconfig.json
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.runtimeconfig.dev.json
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.dll
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\bin\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.pdb
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.csproj.AssemblyReference.cache
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.AssemblyInfoInputs.cache
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.AssemblyInfo.cs
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.csproj.CoreCompileInputs.cache
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.dll
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.pdb
+C:\Users\szers\OneDrive\Máy tính\Backup\DemoDoAnCTDLvsGiaiThuat\obj\Debug\netcoreapp3.1\DemoDoAnCTDLvsGiaiThuat.genruntimeconfig.cache

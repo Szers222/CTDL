@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DemoDoAnCTDLvsGiaiThuat/1.0.0": {
+        "runtime": {
+          "DemoDoAnCTDLvsGiaiThuat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoDoAnCTDLvsGiaiThuat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
